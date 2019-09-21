@@ -1,5 +1,5 @@
 import pymc as pm
-import numpy as np
+#import numpy as np
 import matplotlib.pyplot as plt
 
 np.set_printoptions(precision=3, suppress=True)
